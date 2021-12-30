@@ -32,8 +32,8 @@ body {
   width: 320px;
 }
 
-form{
-    margin: 15px;
+form {
+  margin: 15px;
 }
 
 li {
@@ -47,21 +47,21 @@ p {
 a {
   text-decoration: none;
   font-size: var(--texto);
-  color:rgb(65, 62, 62);
+  color: rgb(65, 62, 62);
 }
-i{
-    color:rgb(65, 62, 62);
+i {
+  color: rgb(65, 62, 62);
 }
 
 /* HEADER */
 
 header {
   background-color: var(--amarillo);
-  
+
   padding-bottom: 10px;
 }
 
-header ul{
+header ul {
   margin-bottom: 15px;
 }
 
@@ -77,46 +77,42 @@ header img {
   margin: 15px;
 }
 
-.burger-menu{
-    background-color: var(--celeste);
-    width: fit-content;
-    margin: 20px auto ;
-    border-radius: 5px;
-    padding: 8px 10px;
+.burger-menu {
+  background-color: var(--celeste);
+  width: fit-content;
+  margin: 20px auto;
+  border-radius: 5px;
+  padding: 8px 10px;
 }
 
-.burger-menu i{
- color: white;
- font-size: 1.2rem;
+.burger-menu i {
+  color: white;
+  font-size: 1.2rem;
 }
 
 /* HEADER END */
 
-
-
-
-
 /* FOOTER */
 
-footer{
-    text-align: center;
-padding: 50px 15px 15px 15px ;
+footer {
+  text-align: center;
+  padding: 50px 15px 15px 15px;
 }
 
 footer i {
-    font-size: 2rem;
-    margin-bottom: 10px;
-    color: var(--celeste);
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: var(--celeste);
 }
 
 footer p {
-    font-size: var(--texto);
+  font-size: var(--texto);
 }
-footer section{
+footer section {
   margin: 20px 20px;
 }
 
-footer .copyright{
-    text-align: left;
+footer .copyright {
+  text-align: left;
 }
 /* FOOTER END */
