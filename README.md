@@ -1,4 +1,4 @@
-# Mercado-Liebre-2
+# Mercado Liebre 2
 ### [Ejercitación](/git/ejercitacion.pdf)
 ## Agregando estilos al Sitio Web
 
